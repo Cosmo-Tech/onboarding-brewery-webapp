@@ -2,17 +2,17 @@
 // Licensed under the MIT license.
 
 // Azure App registration details
-export const AZURE_TENANT_ID = 'e9641c78-d0d6-4d09-af63-168922724e7f';
-export const APP_REGISTRATION_CLIENT_ID = 'dc68398f-f729-4ba7-8af7-99f6175f9fb5';
+export const AZURE_TENANT_ID = '945c199a-83a2-4e80-9f8c-5a91be5752dd';
+export const APP_REGISTRATION_CLIENT_ID = '29640401-a6b8-4aa3-adfd-257014d8ed15';
 export const APPLICATION_INSIGHTS_INSTRUMENTATION_KEY = 'f198a852-15d8-48da-9cd0-1e6d18708489';
 
 // API information
-export const COSMOTECH_API_SCOPE = 'https://dryrun2.api.thecosmocompany69.onmicrosoft.com/platform';
-export const DEFAULT_BASE_PATH = 'https://dryrun.test-2.api.cosmo-platform.com';
+export const COSMOTECH_API_SCOPE = 'api://269f28d4-a265-4cd0-9651-622303bc10e0/platform';
+export const DEFAULT_BASE_PATH = 'https://digitaltwins-api.eastus.cloudapp.azure.com';
 
 // Cosmo solution identifiers
-export const ORGANIZATION_ID = 'o-n08gq7wvj3';
-export const WORKSPACE_ID = 'w-r0le494eqp';
+export const ORGANIZATION_ID = 'o-91kegwvgzdrw';
+export const WORKSPACE_ID = 'w-kpjjv8ekvx9e';
 
 // Power BI information
 export const POWER_BI_WORKSPACE_ID = 'd3e5b891-679a-4bc0-8f1c-b8887c7190e1';
