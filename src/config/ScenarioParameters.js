@@ -59,7 +59,7 @@ const PARAMETERS = {
       fr: 'Activer la monnaie',
     },
     defaultValue: false,
-  },  
+  },
   start_date: {
     dataCy: 'start_date',
     defaultValue: new Date('2014-08-18T21:11:54'),
