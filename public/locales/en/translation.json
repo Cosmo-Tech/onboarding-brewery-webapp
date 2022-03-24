@@ -142,7 +142,7 @@
     },
     "text": {
       "application": {
-        "title": "Cosmo Tech Web Application Sample"
+        "title": "Brewery application for Dell onboarding"
       },
       "contact": {
         "get": {
@@ -294,8 +294,8 @@
         }
       },
       "about": {
-        "title": "Azure Sample Web Application",
-        "content": "The digital twin example solution is provided by Cosmo Tech. You can use this example to create your own digital twin solution",
+        "title": "Brewery application for Dell onboarding",
+        "content": "The digital twin solution is provided by Cosmo Tech.",
         "button": {
           "close": "Close"
         }
@@ -339,7 +339,7 @@
       }
     },
     "signin": {
-      "title": "Azure Sample Web Application"
+      "title": "Brewery application for Dell onboarding"
     },
     "unauthorized": {
       "scenario": {
@@ -347,7 +347,7 @@
           "title": "Scenario Specialists"
         }
       },
-      "title": "Azure Sample Web Application"
+      "title": "Brewery application for Dell onboarding"
     },
     "scenario": {
       "dropdown": {

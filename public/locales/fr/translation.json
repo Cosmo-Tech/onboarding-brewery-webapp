@@ -142,7 +142,7 @@
     },
     "text": {
       "application": {
-        "title": "Exemple d'Application Web Azure"
+        "title": "Brewery application for Dell onboarding"
       },
       "contact": {
         "get": {
@@ -294,8 +294,8 @@
         }
       },
       "about": {
-        "title": "Exemple d'Application Web Azure",
-        "content": "La solution d'exemple de jumeaux numériques est fournie par Cosmo Tech. Vous pouvez utiliser cet example pour créer votre propre solution de jumeaux numériques",
+        "title": "Brewery application for Dell onboarding",
+        "content": "La solution de jumeaux numériques est fournie par Cosmo Tech.",
         "button": {
           "close": "Fermer"
         }
@@ -339,7 +339,7 @@
       }
     },
     "signin": {
-      "title": "Exemple d'Application Web Azure"
+      "title": "Brewery application for Dell onboarding"
     },
     "unauthorized": {
       "scenario": {
@@ -347,7 +347,7 @@
           "title": "Spécialistes des jumeaux numériques"
         }
       },
-      "title": "Exemple d'Application Web Azure"
+      "title": "Brewery application for Dell onboarding"
     },
     "scenario": {
       "dropdown": {
