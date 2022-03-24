@@ -19,7 +19,7 @@ export const SCENARIO_DASHBOARD_CONFIG = [
       en: 'Scenario dashboard',
       fr: 'Rapport du scenario',
     },
-    reportId: '608b7bef-f5e3-4aae-b8db-19bbb38325d5',
+    reportId: '616b534c-5894-442e-8d56-ab46aa6cbc03',
     settings: {
       navContentPaneEnabled: false,
       panes: {
@@ -56,7 +56,7 @@ export const DASHBOARDS_LIST_CONFIG = [
       en: 'Digital Twin Structure',
       fr: 'Structure du jumeau numérique',
     },
-    reportId: '608b7bef-f5e3-4aae-b8db-19bbb38325d5',
+    reportId: '616b534c-5894-442e-8d56-ab46aa6cbc03',
     settings: {
       navContentPaneEnabled: false,
       panes: {
@@ -104,7 +104,7 @@ export const DASHBOARDS_LIST_CONFIG = [
       en: 'Stocks Follow-up',
       fr: 'Suivi de stock',
     },
-    reportId: '608b7bef-f5e3-4aae-b8db-19bbb38325d5',
+    reportId: '616b534c-5894-442e-8d56-ab46aa6cbc03',
     settings: {
       navContentPaneEnabled: false,
       panes: {
@@ -152,7 +152,7 @@ export const DASHBOARDS_LIST_CONFIG = [
       en: 'Customer Satisfaction',
       fr: 'Satisfaction client',
     },
-    reportId: '608b7bef-f5e3-4aae-b8db-19bbb38325d5',
+    reportId: '616b534c-5894-442e-8d56-ab46aa6cbc03',
     settings: {
       navContentPaneEnabled: false,
       panes: {
