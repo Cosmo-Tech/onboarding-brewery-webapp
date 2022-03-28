@@ -21,7 +21,7 @@ export const POWER_BI_INFO_POLLING_DELAY = 10000;
 export const SCENARIO_RUN_LOG_TYPE = 'CUMULATED_LOGS';
 
 // Whether to enable Application Insights events tracking
-export const ENABLE_APPLICATION_INSIGHTS = true;
+export const ENABLE_APPLICATION_INSIGHTS = false;
 
 // Support page url
 export const SUPPORT_URL = 'https://support.cosmotech.com';
